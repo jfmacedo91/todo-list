@@ -1,0 +1,10 @@
+.header {
+  display: grid;
+  place-content: center;
+  padding: 4.5rem 1rem 5rem;
+  background-color: var(--gray-700);
+}
+
+.avatar {
+  height: 3rem;
+}
